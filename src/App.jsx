@@ -93,7 +93,7 @@ function App() {
       )}
 
       {/* Add New Dog Form */}
-      <h2>Add a New Dog:</h2>
+      <h2>Add a New PAS:</h2>
       <form onSubmit={handleSubmit}>
         <div>
           <label>
